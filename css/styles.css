@@ -1,0 +1,54 @@
+  body {
+    background-color:#F3F0D7;
+  }
+
+  hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  img {
+    height: 200px;
+  }
+
+  h1 {
+    color: #66BFBF;
+    font-family: sans-serif;
+  }
+
+  h3 {
+    color: #FF7878;
+    font-family: sans-serif;
+  }
+
+  p {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #212121;
+  }
+
+  ul {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #212121;
+  }
+
+  ol {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #212121;
+  }
+
+  table {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #212121;
+  }
+
+  a {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #212121;
+  }
